@@ -1,0 +1,4 @@
+C:\Users\women\Desktop\mc\LibraryTest\myFirsClassLibrary\myFirsClassLibrary\bin\Debug\myFirsClassLibrary.dll
+C:\Users\women\Desktop\mc\LibraryTest\myFirsClassLibrary\myFirsClassLibrary\bin\Debug\myFirsClassLibrary.pdb
+C:\Users\women\Desktop\mc\LibraryTest\myFirsClassLibrary\myFirsClassLibrary\obj\Debug\myFirsClassLibrary.dll
+C:\Users\women\Desktop\mc\LibraryTest\myFirsClassLibrary\myFirsClassLibrary\obj\Debug\myFirsClassLibrary.pdb

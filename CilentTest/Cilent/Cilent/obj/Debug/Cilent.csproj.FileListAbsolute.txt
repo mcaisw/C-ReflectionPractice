@@ -1,0 +1,8 @@
+C:\Users\women\Desktop\mc\CilentTest\Cilent\Cilent\bin\Debug\Cilent.exe.config
+C:\Users\women\Desktop\mc\CilentTest\Cilent\Cilent\bin\Debug\Cilent.exe
+C:\Users\women\Desktop\mc\CilentTest\Cilent\Cilent\bin\Debug\Cilent.pdb
+C:\Users\women\Desktop\mc\CilentTest\Cilent\Cilent\bin\Debug\myFirsClassLibrary.dll
+C:\Users\women\Desktop\mc\CilentTest\Cilent\Cilent\bin\Debug\myFirsClassLibrary.pdb
+C:\Users\women\Desktop\mc\CilentTest\Cilent\Cilent\obj\Debug\Cilent.csprojResolveAssemblyReference.cache
+C:\Users\women\Desktop\mc\CilentTest\Cilent\Cilent\obj\Debug\Cilent.exe
+C:\Users\women\Desktop\mc\CilentTest\Cilent\Cilent\obj\Debug\Cilent.pdb
